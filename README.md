@@ -43,7 +43,7 @@
 
 ---
 ### GitHub cтатистика:
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkhay&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ilkhay)
+[![ilkhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilkhay&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/ilkhay)
 
 [resume]: https://drive.google.com/
 [resumeHH]: hh.ru/applicant/resumes/view?resume=59c2ac2bff099bb7f90039ed1f387a4a317043
