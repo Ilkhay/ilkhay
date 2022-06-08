@@ -47,7 +47,7 @@
 
 [resume]: https://drive.google.com/
 [resumeHH]: hh.ru/applicant/resumes/view?resume=59c2ac2bff099bb7f90039ed1f387a4a317043
-[linkedin]: linkedin.com/in/ilyas-khairetdinov-962474121
+[linkedin]: https://www.linkedin.com/in/ilyas-khairetdinov-962474121/
 [whatsapp]: https://wa.me/79152509685
 [telegram]: https://t.me/ilkhay 
 [instagram]: https://www.instagram.com/il_khay
